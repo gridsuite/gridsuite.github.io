@@ -1,3 +1,3 @@
 # gridsuite.github.io
 
-![Architecture diagram](.github/architecture.svg)
+![Architecture diagram](architecture.svg)
