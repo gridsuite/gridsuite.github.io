@@ -1,5 +1,15 @@
 # GridSuite
 Discover GridSuite in the following sections!
+
+# Latest news!
+
+### December 2023
+> [!IMPORTANT]
+> GridSuite is now installed in production environment at [RTE](https://www.rte-france.com/) !
+> A parallel run is starting to allow operators from the grid planning department to use the new functionalities available with GridSuite.
+> This is a major achievement after 4 years of development to progressively replace the legacy tool Convergence to enable more efficient work for the operators.
+> New releases are expected in 2024 with new features to cover European coordination and real time needs.
+
 ## Video Tour
 Here's a short video tour that highlights many key features of the GridSuite project.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AmiEldTtqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
