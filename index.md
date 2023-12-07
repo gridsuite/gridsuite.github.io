@@ -1,7 +1,7 @@
 # GridSuite
 Discover GridSuite in the following sections!
 
-# Lastest news!
+# Latest news!
 
 ### December 2023
 > [!IMPORTANT]
