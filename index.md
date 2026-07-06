@@ -22,9 +22,6 @@ GridSuite is an open source platform for power system studies and grid operation
 * Open development on GitHub with releases published on the deployment repository
 * Documentation, issues, and pull requests available to the community
 
-## Latest releases
-Get the current GridSuite deployment artifacts from the [deployment releases page]({{ site.release_url }}).
-
 ## Video Tour
 Here's a short video tour that highlights many key features of the GridSuite project.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AmiEldTtqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
