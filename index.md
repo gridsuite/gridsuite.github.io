@@ -3,11 +3,16 @@ Discover GridSuite in the following sections!
 
 # Latest news!
 
+### May 2026
+> GridSuite is now used daily by 50 users in the grid planning department at [RTE](https://www.rte-france.com/).
+
 ### December 2023
 > GridSuite is now installed in production environment at [RTE](https://www.rte-france.com/) !
 > A parallel run is starting to allow operators from the grid planning department to use the new functionalities available with GridSuite.
 > This is a major achievement after 4 years of development to progressively replace the legacy tool Convergence to enable more efficient work for the operators.
-> New releases are expected in 2024 with new features to cover European coordination and real time needs.
+
+## Latest release
+Get the current GridSuite deployment artifacts from the [deployment releases page](https://github.com/gridsuite/deployment/releases).
 
 ## Video Tour
 Here's a short video tour that highlights many key features of the GridSuite project.
