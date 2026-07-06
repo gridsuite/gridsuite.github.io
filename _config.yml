@@ -17,6 +17,8 @@ title: GridSuite
 ##email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   GridSuite is a suite of apps to operate and design electrical grids
+github_organization_url: https://github.com/gridsuite/
+release_url: https://github.com/gridsuite/deployment/releases
 ##baseurl: "" # the subpath of your site, e.g. /blog
 ##url: "" # the base hostname & protocol for your site, e.g. http://example.com
 ##twitter_username: jekyllrb
