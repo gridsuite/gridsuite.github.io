@@ -1,8 +1,5 @@
 # GridSuite
 
-Here is a micro-service architecture diagram of the GridSuite application:
+This repository contains the GridSuite website.
 
-![Architecture diagram](images/architecture.svg)
-
-The diagram has been done with [diagrams.net](https://app.diagrams.net/). The [SVG](images/architecture.svg) embed metadata and
-can be opened and edited. 
+Project documentation is maintained in the [gridsuite/documentation](https://github.com/gridsuite/documentation) repository.
